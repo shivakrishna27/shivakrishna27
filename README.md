@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/shivakrishna-chetipelly-178233205
+- 📫 How to reach me https://www.linkedin.com/in/shivakrishnachetipelly
 
 <!---
 shivakrishna27/shivakrishna27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
